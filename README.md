@@ -12,6 +12,13 @@ I’m a medical doctor turned health data scientist with experience in:
 - Data Visualisation
 
 
+## Featured Project: ANZNN Data Dictionary & Cohort Builder Prototype
+
+[🔗 Live Prototype](https://data-dictionary-site.kuznetsov-rar.workers.dev/) • [📁 Repository](https://github.com/ilia-kuznetsov-hds/data-dictionary-site)
+
+Built a web-first data dictionary experience for ANZNN workflows, plus a rapid cohort builder UI prototype.
+
+
 
 
 <!--
