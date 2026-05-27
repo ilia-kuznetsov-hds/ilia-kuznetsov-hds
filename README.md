@@ -30,8 +30,14 @@ It includes a working LLM integration to simulate end-to-end workflows, and I us
 [🔗 Live Prototype](https://data-dictionary-site.kuznetsov-rar.workers.dev/) 
 [📁 Repository](https://github.com/ilia-kuznetsov-hds/data-dictionary-site)
 
-Built a web-first data dictionary experience for ANZNN workflows, plus a rapid cohort builder UI prototype.
+Built a web-first data dictionary experience for ANZNN workflows.
 
+### MCP Image Tools
+
+Implemented a local MCP server with FastMCP that exposes Python image-generation functions as callable AI tools. The server lets an agent turn a natural-language request into tool calls.
+The project helped me understand MCP server configuration, tool registration with `@mcp.tool`, local tool execution, `uv` dependency management, and how MCP connects an AI client to local Python workflows.
+
+[Project Repo](https://github.com/ilia-kuznetsov-hds/mcp_server_codelabs)
 
 
 
