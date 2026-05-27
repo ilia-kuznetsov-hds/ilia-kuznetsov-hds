@@ -45,6 +45,12 @@ RMarkdown lessons and cheatsheets on causal inference in R, including matching, 
 
 [Project Repo](https://github.com/ilia-kuznetsov-hds/causal-modelling-projects)
 
+
+### Machine Learning Projects
+
+A collection of hands-on machine learning, deep learning, and applied analytics projects built in Python. The repo includes notebooks on PyTorch fundamentals, neural networks, CNN-based computer vision, ensemble learning with scikit-learn, clinical NLP prompt engineering, telecom customer analytics, and interactive data visualisation.
+
+[Project Repo](https://github.com/ilia-kuznetsov-hds/machine_learning_project)
 <!--
 **ilia-kuznetsov-hds/ilia-kuznetsov-hds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
