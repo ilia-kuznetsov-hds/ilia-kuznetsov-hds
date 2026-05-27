@@ -39,7 +39,11 @@ The project helped me understand MCP server configuration, tool registration wit
 
 [Project Repo](https://github.com/ilia-kuznetsov-hds/mcp_server_codelabs)
 
+### Causal Modelling Projects
 
+RMarkdown lessons and cheatsheets on causal inference in R, including matching, propensity scores, covariate balance, DAGs, and multilevel modelling.
+
+[Project Repo](https://github.com/ilia-kuznetsov-hds/causal-modelling-projects)
 
 <!--
 **ilia-kuznetsov-hds/ilia-kuznetsov-hds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
