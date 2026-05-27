@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 Health Data Science postgraduate @ UNSW  
+🎓 Master of Science in Health Data Science @ UNSW  
 🧠 Clinical Research & Analytics  
 📍 Sydney, Australia
 
@@ -27,7 +27,8 @@ It includes a working LLM integration to simulate end-to-end workflows, and I us
 
 
 ### ANZNN Data Dictionary & Cohort Builder Prototype
-[🔗 Live Prototype](https://data-dictionary-site.kuznetsov-rar.workers.dev/) • [📁 Repository](https://github.com/ilia-kuznetsov-hds/data-dictionary-site)
+[🔗 Live Prototype](https://data-dictionary-site.kuznetsov-rar.workers.dev/) 
+[📁 Repository](https://github.com/ilia-kuznetsov-hds/data-dictionary-site)
 
 Built a web-first data dictionary experience for ANZNN workflows, plus a rapid cohort builder UI prototype.
 
