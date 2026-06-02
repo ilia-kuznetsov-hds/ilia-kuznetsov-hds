@@ -6,7 +6,10 @@
 
 ## About Me
 
-Analyst with a medical background, bringing the critical thinking and decision-making skills developed through years of clinical practice. Learned to act with incomplete information, competing priorities, and real-world consequences.
+•	Data Analyst with 3+ years of experience and a medical background, bringing critical thinking and decision-making skills   
+•	Learned to make decisions with incomplete information, competing priorities, and real-world consequences  
+•	Developed through clinical practice, the ability to explain complex, uncertain, and conflicting information to diverse audiences, from patients and clinicians to researchers and operational stakeholders  
+
 
 Currently building experience in the Australian health system - MS in Healthcare Data Science from UNSW, with some hands-on project work in the public health sector.
 
