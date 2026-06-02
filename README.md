@@ -11,12 +11,12 @@ Analyst with a medical background, bringing the critical thinking and decision-m
 Currently building experience in the Australian health system - MS in Healthcare Data Science from UNSW, with some hands-on project work in the public health sector.
 
 ## Technical Skills
-•	Programming & Analysis: Python; SQL; R; SAS; Excel; 
-•	Cloud and Data Warehousing: GCP/Azure; Google BigQuery; Snowflake; Databricks
-•	Business Intelligence: Power BI (DAX); Tableau; Looker Studio 
-•	Data Engineering & Pipelines: Apache Airflow (workflow orchestration, DAGs); API integration; 
-•	Version Control & Collaboration: Git; GitLab CI/CD; Jira; Linear 
-•	Web Fundamentals: HTML; CSS; TypeScript
+•	Programming & Analysis: Python; SQL; R; SAS; Excel;   
+•	Cloud and Data Warehousing: GCP/Azure; Google BigQuery; Snowflake; Databricks  
+•	Business Intelligence: Power BI (DAX); Tableau; Looker Studio   
+•	Data Engineering & Pipelines: Apache Airflow (workflow orchestration, DAGs); API integration;   
+•	Version Control & Collaboration: Git; GitLab CI/CD; Jira; Linear   
+•	Web Fundamentals: HTML; CSS; TypeScript  
 
 
 ## Project Highlights
@@ -29,8 +29,8 @@ It includes a working LLM integration to simulate end-to-end workflows, and I us
 
 
 ### ANZNN Data Dictionary & Cohort Builder Prototype
-[🔗 Live Prototype](https://data-dictionary-site.kuznetsov-rar.workers.dev/)   
-[GitHub](https://github.com/ilia-kuznetsov-hds/data-dictionary-site)
+- [🔗 Live Prototype](https://data-dictionary-site.kuznetsov-rar.workers.dev/)     
+- [GitHub](https://github.com/ilia-kuznetsov-hds/data-dictionary-site)
 
 Built a web-first data dictionary experience for ANZNN workflows.
 
@@ -41,6 +41,14 @@ The project helped me understand MCP server configuration, tool registration wit
 
 [GitHub](https://github.com/ilia-kuznetsov-hds/mcp_server_codelabs)
 
+
+### Machine Learning Projects
+
+A collection of hands-on machine learning, deep learning, and applied analytics projects built in Python. The repo includes notebooks on PyTorch fundamentals, neural networks, CNN-based computer vision, ensemble learning with scikit-learn, clinical NLP prompt engineering, telecom customer analytics, and interactive data visualisation.
+
+[GitHub](https://github.com/ilia-kuznetsov-hds/machine_learning_project)
+
+
 ### Causal Modelling Projects
 
 RMarkdown lessons and cheatsheets on causal inference in R, including matching, propensity scores, covariate balance, DAGs, and multilevel modelling.
@@ -48,11 +56,6 @@ RMarkdown lessons and cheatsheets on causal inference in R, including matching, 
 [GitHub](https://github.com/ilia-kuznetsov-hds/causal-modelling-projects)
 
 
-### Machine Learning Projects
-
-A collection of hands-on machine learning, deep learning, and applied analytics projects built in Python. The repo includes notebooks on PyTorch fundamentals, neural networks, CNN-based computer vision, ensemble learning with scikit-learn, clinical NLP prompt engineering, telecom customer analytics, and interactive data visualisation.
-
-[GitHub](https://github.com/ilia-kuznetsov-hds/machine_learning_project)
 <!--
 **ilia-kuznetsov-hds/ilia-kuznetsov-hds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
