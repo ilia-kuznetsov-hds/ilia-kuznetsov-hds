@@ -6,29 +6,31 @@
 
 ## About Me
 
-I'm a medical doctor and data scientist interested in how data can improve the way healthcare works.
+Analyst with a medical background, bringing the critical thinking and decision-making skills developed through years of clinical practice. Learned to act with incomplete information, competing priorities, and real-world consequences.
+
 Currently building experience in the Australian health system - MS in Healthcare Data Science from UNSW, with some hands-on project work in the public health sector.
 
-I’m a medical doctor turned health data scientist with experience in:
-- Python, R, SAS
-- SQL
-- Data Visualisation
+## Technical Skills
+•	Programming & Analysis: Python; SQL; R; SAS; Excel; 
+•	Cloud and Data Warehousing: GCP/Azure; Google BigQuery; Snowflake; Databricks
+•	Business Intelligence: Power BI (DAX); Tableau; Looker Studio 
+•	Data Engineering & Pipelines: Apache Airflow (workflow orchestration, DAGs); API integration; 
+•	Version Control & Collaboration: Git; GitLab CI/CD; Jira; Linear 
+•	Web Fundamentals: HTML; CSS; TypeScript
 
 
-## Some Projects
+## Project Highlights
 
-It is true that recent graduates have a lot of experience and projects, they just need to demonstrate it properly. 
-
-### Mock prototype of clinical documentation app
-Heidi Clone is a prototype I built for an entry program that mimics a real clinical documentation product. 
+### Prototype of clinical documentation app
+Ambient medical scribe prototype I built as part of job application. I utilised Spec-Driven Development for AI-assisted coding to re-create existing product. 
 It includes a working LLM integration to simulate end-to-end workflows, and I used it to design and implement a new Shared Patient Summary feature.
-* [The project rationale and feature description (Notion Page)](https://kuznetsov-rar.notion.site/Product-Growth-Project-3-Shared-Patient-Summary-Without-Creating-Liability-3077cead6d3e800982c7ca5291718776)
-* [Project Repo](https://github.com/ilia-kuznetsov-hds/heidi-clone/tree/render-blueprint-deploy)
+* [The project rationale and feature description](https://kuznetsov-rar.notion.site/Product-Growth-Project-3-Shared-Patient-Summary-Without-Creating-Liability-3077cead6d3e800982c7ca5291718776)
+* [Github](https://github.com/ilia-kuznetsov-hds/heidi-clone)
 
 
 ### ANZNN Data Dictionary & Cohort Builder Prototype
-[🔗 Live Prototype](https://data-dictionary-site.kuznetsov-rar.workers.dev/) 
-[📁 Repository](https://github.com/ilia-kuznetsov-hds/data-dictionary-site)
+[🔗 Live Prototype](https://data-dictionary-site.kuznetsov-rar.workers.dev/)   
+[GitHub](https://github.com/ilia-kuznetsov-hds/data-dictionary-site)
 
 Built a web-first data dictionary experience for ANZNN workflows.
 
@@ -37,20 +39,20 @@ Built a web-first data dictionary experience for ANZNN workflows.
 Implemented a local MCP server with FastMCP that exposes Python image-generation functions as callable AI tools. The server lets an agent turn a natural-language request into tool calls.
 The project helped me understand MCP server configuration, tool registration with `@mcp.tool`, local tool execution, `uv` dependency management, and how MCP connects an AI client to local Python workflows.
 
-[Project Repo](https://github.com/ilia-kuznetsov-hds/mcp_server_codelabs)
+[GitHub](https://github.com/ilia-kuznetsov-hds/mcp_server_codelabs)
 
 ### Causal Modelling Projects
 
 RMarkdown lessons and cheatsheets on causal inference in R, including matching, propensity scores, covariate balance, DAGs, and multilevel modelling.
 
-[Project Repo](https://github.com/ilia-kuznetsov-hds/causal-modelling-projects)
+[GitHub](https://github.com/ilia-kuznetsov-hds/causal-modelling-projects)
 
 
 ### Machine Learning Projects
 
 A collection of hands-on machine learning, deep learning, and applied analytics projects built in Python. The repo includes notebooks on PyTorch fundamentals, neural networks, CNN-based computer vision, ensemble learning with scikit-learn, clinical NLP prompt engineering, telecom customer analytics, and interactive data visualisation.
 
-[Project Repo](https://github.com/ilia-kuznetsov-hds/machine_learning_project)
+[GitHub](https://github.com/ilia-kuznetsov-hds/machine_learning_project)
 <!--
 **ilia-kuznetsov-hds/ilia-kuznetsov-hds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -64,4 +66,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Technical Skills
+•	Programming & Analysis: Python; SQL; R; SAS; Excel; 
+•	Cloud and Data Warehousing: GCP/Azure; Google BigQuery; Snowflake 
+•	Business Intelligence: Power BI (DAX); Tableau; Looker Studio 
+•	Data Engineering & Pipelines: Apache Airflow (workflow orchestration, DAGs); API integration; 
+•	Version Control & Collaboration: Git; GitLab CI/CD; Jira; Linear 
+•	Web Fundamentals: HTML; CSS; TypeScript
+
 -->
