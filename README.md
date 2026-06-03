@@ -24,16 +24,22 @@ Currently building experience in the Australian health system - MS in Healthcare
 
 ## Project Highlights
 
-### Prototype of clinical documentation app
+### 🩺 Clinical documentation app - Ambient Medical Scribe
 Ambient medical scribe prototype I built as part of job application. I utilised Spec-Driven Development for AI-assisted coding to re-create existing product. 
 It includes a working LLM integration to simulate end-to-end workflows, and I used it to design and implement a new Shared Patient Summary feature.
-* [The project rationale and feature description](https://kuznetsov-rar.notion.site/Product-Growth-Project-3-Shared-Patient-Summary-Without-Creating-Liability-3077cead6d3e800982c7ca5291718776)
-* [Github](https://github.com/ilia-kuznetsov-hds/heidi-clone)
+
+| | |
+|---|---|
+| 📄 Rationale & feature spec | [Notion →](https://kuznetsov-rar.notion.site/Product-Growth-Project-3-Shared-Patient-Summary-Without-Creating-Liability-3077cead6d3e800982c7ca5291718776) |
+| 💻 Source code | [GitHub →](https://github.com/ilia-kuznetsov-hds/heidi-clone) |
 
 
-### ANZNN Data Dictionary & Cohort Builder Prototype
-- [🔗 Live Prototype](https://data-dictionary-site.kuznetsov-rar.workers.dev/)     
-- [GitHub](https://github.com/ilia-kuznetsov-hds/data-dictionary-site)
+### 📊 ANZNN Data Dictionary & Cohort Builder Prototype
+
+| | |
+|---|---|
+| 🌐 Live prototype | [data-dictionary-site →](https://data-dictionary-site.kuznetsov-rar.workers.dev/) |
+| 💻 Source code | [GitHub →](https://github.com/ilia-kuznetsov-hds/data-dictionary-site) |
 
 Built a web-first data dictionary experience for ANZNN workflows.
 
@@ -45,7 +51,7 @@ The project helped me understand MCP server configuration, tool registration wit
 [GitHub](https://github.com/ilia-kuznetsov-hds/mcp_server_codelabs)
 
 
-### Machine Learning Projects
+### 🤖 Machine Learning Projects
 
 A collection of hands-on machine learning, deep learning, and applied analytics projects built in Python. The repo includes notebooks on PyTorch fundamentals, neural networks, CNN-based computer vision, ensemble learning with scikit-learn, clinical NLP prompt engineering, telecom customer analytics, and interactive data visualisation.
 
