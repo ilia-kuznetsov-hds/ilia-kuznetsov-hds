@@ -51,8 +51,14 @@ A collection of hands-on machine learning, deep learning, and applied analytics 
 
 [GitHub](https://github.com/ilia-kuznetsov-hds/machine_learning_project)
 
+### Infectious Disease Surveillance Dashboard
 
-### Causal Modelling Projects
+This project demonstrates data wrangling in R through cleaning, standardising, validating, and reshaping real-world infectious disease surveillance data. It also applies quantitative analytics techniques, including time-based aggregation, country-level trend analysis, rolling averages, and short-term forecasting to support early outbreak signal detection.
+
+[GitHub](https://github.com/ilia-kuznetsov-hds/Datathon-HDS-2024)
+
+
+### Causal Modelling Projects in R
 
 RMarkdown lessons and cheatsheets on causal inference in R, including matching, propensity scores, covariate balance, DAGs, and multilevel modelling.
 
