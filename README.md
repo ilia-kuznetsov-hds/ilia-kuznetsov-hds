@@ -31,15 +31,24 @@ It includes a working LLM integration to simulate end-to-end workflows, and I us
 | | |
 |---|---|
 | 📄 Rationale & feature spec | [Notion →](https://kuznetsov-rar.notion.site/Product-Growth-Project-3-Shared-Patient-Summary-Without-Creating-Liability-3077cead6d3e800982c7ca5291718776) |
-| 💻 Source code | [GitHub →](https://github.com/ilia-kuznetsov-hds/heidi-clone) |
+| 💻 Source code | [GitHub](https://github.com/ilia-kuznetsov-hds/heidi-clone) |
 
+
+### 🧪 CBDRH Research: RAG Pipeline & LLM-as-a-Judge Evaluation
+
+Research project at CBDRH exploring retrieval-augmented generation for building and evaluating a clinical question-answering pipeline, with LLM-as-a-judge used to assess response quality, evidence grounding, and retrieval performance.
+
+| | |
+|---|---|
+| 📈 Research visualisation | [Link →](https://research-visualization-278393455474.asia-southeast1.run.app/) |
+| 💻 Source code | [GitHub](https://github.com/ilia-kuznetsov-hds/2025_dissertation) |
 
 ### 📊 ANZNN Data Dictionary & Cohort Builder Prototype
 
 | | |
 |---|---|
-| 🌐 Live prototype | [data-dictionary-site →](https://data-dictionary-site.kuznetsov-rar.workers.dev/) |
-| 💻 Source code | [GitHub →](https://github.com/ilia-kuznetsov-hds/data-dictionary-site) |
+| 🌐 Live prototype | [data-dictionary-site](https://data-dictionary-site.kuznetsov-rar.workers.dev/) |
+| 💻 Source code | [GitHub](https://github.com/ilia-kuznetsov-hds/data-dictionary-site) |
 
 Built a web-first data dictionary experience for ANZNN workflows.
 
